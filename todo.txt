@@ -1,0 +1,4 @@
+Next item on todo list
+-Create the directory structure. 
+-Finish network isolation before configuring the dhcp server
+
